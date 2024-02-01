@@ -5,3 +5,4 @@
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотесты Python+Pytest+Requests)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотесты+Python+Pytest+Requests)
